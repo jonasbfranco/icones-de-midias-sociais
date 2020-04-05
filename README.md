@@ -21,6 +21,10 @@
 > 03&nbsp;&nbsp;&nbsp;=&nbsp;&nbsp;&nbsp;W3SCHOOLS<br>
 [Site w3schools - Icons FontAwesome](https://www.w3schools.com/icons/fontawesome5_intro.asp)
 
+> 04&nbsp;&nbsp;&nbsp;=&nbsp;&nbsp;&nbsp;GOOGLE FONTS<br>
+[Site Google Fonts](https://fonts.google.com/?query=sans&selection.family=Open+Sans:700)
+
+
 #### ⚙ Como utilizar meus arquivos 
 > Baixe os arquivos 
 * 1 . [Baixe os arquivos ](https://github.com/jonasbfranco/icones-de-midias-sociais/archive/master.zip)<br>
