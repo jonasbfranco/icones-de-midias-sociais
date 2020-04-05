@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+*{
+  margin: 0;
+  padding: ;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+  background: url(img1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.container{
+  position: fixed;
+  width: 65px;
+  margin-top: 150px;
+  box-shadow: 2px 2px 8px 0 rgba(0,0,0,.4);
+}
+
+.container a{
+  position: relative;
+  display: block;
+  height: 60px;
+  width: 100%;
+  color: white;
+  line-height: 60px;
+  padding-left: 25%;
+  border-bottom: 1px solid rgba(0,0,0,.4);
+}
+
+.container a i{
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  font-size: 27px;
+}
+
+.container a span{
+  position: absolute;
+  margin-left: 30px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 0px 13px;
+  border-radius: 3px;
+  transition: all .4s;
+  opacity: 0;
+  visibility: hidden;
+  font-family: 'Open Sans', sans-serif;
+  box-shadow: 2px 2px 8px 0 rgba(0,0,0,.4);
+}
+
+.container a span:before{
+  position: absolute;
+  content: '';
+  top: 50%;
+  left: -8px;
+  height: 18px;
+  width: 18px;
+  transform: translateY(-50%) rotate(45deg);
+}
+
+.container a:nth-child(1),
+.container a:nth-child(1) span,
+.container a:nth-child(1) span:before{
+  background: #4267B2;
+}
+
+.container a:nth-child(2),
+.container a:nth-child(2) span,
+.container a:nth-child(2) span:before{
+  background: #1DA1F2;
+}
+.container a:nth-child(3),
+.container a:nth-child(3) span,
+.container a:nth-child(3) span:before{
+  background: #E1306C;
+}
+.container a:nth-child(4),
+.container a:nth-child(4) span,
+.container a:nth-child(4) span:before{
+  background: #2867B2;
+}
+.container a:nth-child(5),
+.container a:nth-child(5) span,
+.container a:nth-child(5) span:before{
+  background: #333;
+}
+.container a:nth-child(6),
+.container a:nth-child(6) span,
+.container a:nth-child(6) span:before{
+  background: #FF0000;
+}
+
+.container a:hover span{
+  margin-left: 75px;
+  opacity: 1;
+  visibility: visible;
+}
