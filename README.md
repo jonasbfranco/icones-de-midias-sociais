@@ -1,4 +1,5 @@
 ![Favoritos](https://img.shields.io/github/stars/jonasbfranco/icones-de-midias-sociais?style=social)
+
 <p align='left'><h1><b>Icones de midias sociais<br></h1></b></p>
 <p align='left'><h2>Ícones flutuantes das midias sociais usando HTML e CSS</h2></b></p>
 <p align='left'><h3><b>Repositório de:</b> Jonas B. Franco | @jonasbfranco<br></h3></b></p>
